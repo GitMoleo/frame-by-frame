@@ -1,9 +1,9 @@
 {
     "accessIsDenied": {
-        "message": "Access is denied"
+        "message": "Zugriff verweigert"
     },
     "cancel": {
-        "message": "Cancel"
+        "message": "Abbrechen"
     },
     "description": {
         "message": "Das beste Frame-by-Frame-Tool. Funktioniert mit allen Websites! Bewegen Sie den Mauszeiger über das Video und verwenden Sie die Pfeiltasten der Tastatur, um die Frames zu wechseln."
@@ -18,25 +18,25 @@
         "message": "Verstecken"
     },
     "hideInFullscreen": {
-        "message": "Hide in fullscreen"
+        "message": "Bei Vollbild verstecken"
     },
     "next": {
         "message": "Nächster"
     },
     "other": {
-        "message": "Other"
+        "message": "Andere"
     },
     "prev": {
         "message": "Vorheriger"
     },
     "reset": {
-        "message": "Reset"
+        "message": "Zurücksetzen"
     },
     "save": {
-        "message": "Save"
+        "message": "Speichern"
     },
     "shortcuts": {
-        "message": "Shortcuts"
+        "message": "Kürzel"
     },
     "time": {
         "message": "Zeit"
